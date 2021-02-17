@@ -1,0 +1,61 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/941/750/full/logomedio.png" group-title="RADIO",Radio Das Antigas
+http://stream.radiodasantigas.com.br:9992 
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/974/cover/5dc8aaf2303ce0086b835c3afa2d7072.png" group-title="RADIO",Radio Toca Tudo
+https://servidor40-2.brlogic.com:8120/live
+#EXTINF:-1 tvg-logo="https://is.gd/Xv5LCj" group-title="RADIO",Rádio Flash Back FM
+https://cc1.streammaximum.com:2244/stream
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio151308_1593879965.jpg" group-title="RADIO",Adoro Flashback
+https://server01.ouvir.radio.br:8018/stream?1603991891780
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio150658_1593460564.jpg" group-title="RADIO",Rádio Sertaneja Web
+https://casthttps1.suaradionanet.net/13127/stream?1603993504141
+#EXTINF:-1 tvg-logo="https://www.radiocabrito.com/assets/img/logo.png" group-title="RADIO",Radio Cabrito
+https://sc.radiocabrito.com:10997/
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio62729_1535370855.png" group-title="RADIO",MS Web Rádio
+https://s25.maxcast.com.br:8108/live?1603990361290
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio49251_1552934266.jpg" group-title="RADIO",Radio Gospel Life
+https://s15.maxcast.com.br:8296/live?1603990321445
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio145923_1596572438.png" group-title="RADIO",Web Rádio Mundi Jovem BH
+http://stm34.conectastm.com:8238/stream?1603990581839
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio19067_1569508168.jpg" group-title="RADIO",Rádio Perfeito Louvor
+https://centova.mundodoradio.com.br:20001/stream?1603990607403
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio27566_1547469382.jpg" group-title="RADIO",Rádio Louvarte
+http://stm13.voxtreaming.com.br:6742/stream?1603990735575
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8842_1439401341.jpg" group-title="RADIO",Rádio Máxima FM
+https://server01.ouvir.radio.br:8024/stream?1603990753799
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15984_1490794779.jpg" group-title="RADIO",Portal Web Gospel
+http://centova2.euroti.com.br:8131/stream?1603990852442
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio15605_1601997939.png" group-title="RADIO",Rádio Tempo de Amar
+http://servidor35.brlogic.com:8044/live?1603990890764
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio162745_1603505533.jpg" group-title="RADIO",Fita Cassete
+https://server01.ouvir.radio.br:8018/stream?1603990908530
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio139663_1585045728.jpg" group-title="RADIO",Princesa Web Rádio
+http://hts07.kshost.com.br:10966/;?1603991343535
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio32447_1581351524.png" group-title="RADIO",Rádio Nova Geração FM
+http://srv.smghosting.com.br:11416/;?1603991476813
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio154799_1596291568.jpg" group-title="RADIO",Rádio Frequência FM
+https://servidor24-5.brlogic.com:8810/live?1603991503831
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio105009_1585852840.jpg" group-title="RADIO",Rádio Semeando O Amor de Deus
+https://ssl.srvstm.com:8088/stream?1603991539990
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio49001_1497975101.jpg" group-title="RADIO",Rádio 365
+https://str1.castradios.com.br:10998/;?1603991780794
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio24884_1439401618.jpg" group-title="RADIO",Rádio WEBGIO
+http://servidor34.brlogic.com:8080/live?1603991942148
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio25109_1597253899.png" group-title="RADIO",Rádio Estação Gospel
+http://live1.livemus.com.br:27054/;?1603992251925
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio40462_1522251880.jpg" group-title="RADIO",Rádio Gospel Campinas
+http://centova.nardele.com.br:4343/stream?1603992342411
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RADIO",Bons Tempos FM
+https://server02.ouvir.radio.br:8050/stream?1603992454370
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio61133_1559684783.jpeg" group-title="RADIO",Rádio Terra MS
+http://svrstream2.svreua.com:8388/;?1603992520606
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio150873_1593609322.jpg" group-title="RADIO",Rádio Super Amazônia Brasil
+https://s11.maxcast.com.br:8050/live?1603992541109
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio36135_1536794532.jpg" group-title="RADIO",Santafé Rádio
+https://servidor26.brlogic.com:8084/live?1603992611112
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio46251_1493923294.png" group-title="RADIO",Rádio RBN Digital
+http://69.162.102.91:8646/live?1603992828112
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio65121_1598877725.jpg" group-title="RADIO",Gama Esportiva
+http://suaradio1.dyndns.ws:8994/stream?1603993568212
+#EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio32999_1439401818.jpg" group-title="RADIO",Peace Love
+https://s33.maxcast.com.br:8088/live?1603993588295
