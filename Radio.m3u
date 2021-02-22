@@ -5,6 +5,8 @@ http://streaming.livecenterhost.com:8054/stream
 http://autodj.club:8040/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio95275_1547221299.jpg" group-title="RADIO",Rádio Nativa FM 90.1
 http://142.4.192.161:8012/stream?1603988327532
+#EXTINF:-1 tvg-logo="https://www.bandfmcampinas.com/files/2019/06/BAND-LOBE-150x150.png" group-title="RADIO",Band Love
+https://cast3.hoost.com.br:20116/stream
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8760_1565178044.png" group-title="RADIO",Rádio Hot 107 FM
 https://shout35.crossradio.com.br:18116/stream?1603988512017
 #EXTINF:-1 tvg-logo="https://img.radios.com.br/radio/lg/radio8805_1586971813.jpg" group-title="RADIO",Rádio Melodia FM 102.3
